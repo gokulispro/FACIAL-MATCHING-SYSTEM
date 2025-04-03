@@ -95,7 +95,7 @@ Ensure you have the following installed:
 ---
 
 ## Contributors
-- **Gali Yaswanth Sai** (Intern, Sri Sairam Techno Incubator Foundation)
+- **Gali Yaswanth Sai** (Intern, Sri Sairam Techno Incubator Foundation)         https://github.com/ir19stark28
 - **GokulKrishnan Saravanan** (Intern, Sri Sairam Techno Incubator Foundation )  https://github.com/gokulispro
 
 ---
